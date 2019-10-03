@@ -1,3 +1,4 @@
+a
 # openjdk
 
 slim openjdk container
